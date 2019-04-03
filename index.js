@@ -9,3 +9,7 @@ function addFive (x, addReference) {
 function addTen (x, addReference) {
   return addReference(x, 10)
 }
+
+function addTwenty (x, addReference) {
+  return addReference(x, 20)
+}
